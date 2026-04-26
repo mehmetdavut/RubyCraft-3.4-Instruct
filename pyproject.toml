@@ -8,5 +8,6 @@ dependencies = [
     "jupyter>=1.1.1",
     "matplotlib>=3.10.9",
     "pandas>=3.0.2",
+    "ruff>=0.15.12",
     "seaborn>=0.13.2",
 ]
