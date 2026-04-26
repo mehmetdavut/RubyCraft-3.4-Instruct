@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python & Env
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# OS-level
+.DS_Store
+Thumbs.db
+
+# Temporary data
+*.csv
+*.jsonl
